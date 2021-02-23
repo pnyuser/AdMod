@@ -31,7 +31,7 @@ import com.google.android.gms.ads.rewarded.RewardedAdLoadCallback;
 
 public class MainActivity extends AppCompatActivity {
     private InterstitialAd mInterstitialAd;
-    String s;
+
     private RewardedAd rewardedAd;
 
     @Override
